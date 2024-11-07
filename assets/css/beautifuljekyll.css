@@ -987,8 +987,10 @@ pre {
 
 .blog-post .caption {
   text-align: center;
-  font-size: 1.0rem;
+  font-size: 1.125rem;
   padding: 0.625rem;
+  line-height: 1.5;
+  font-style: italic;
   color: #777;
   margin: -1.875rem 0 0 0;
   display: block;
