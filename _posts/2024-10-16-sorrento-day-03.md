@@ -1,6 +1,6 @@
 ---
 title: Sorrento, Day 3
-subtitle:
+subtitle: Pompeii and Herculaneum
 ---
 
 ![]({{ '/assets/img/2024-10-16 10.29.27 Italy (2024).jpg' | relative_url }})
