@@ -3,6 +3,8 @@ title: Sorrento, Day 1
 subtitle: Positano, Amalfi, and Ravello
 ---
 
+### Amalfi Coast
+
 [![]({{ '/assets/img/2024-10-14 09.17.59 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 09.17.59 Italy (2024).jpg' | relative_url }})
 
 {:.caption}
@@ -15,7 +17,9 @@ Stunning cliffside and archipelago
 [![]({{ '/assets/img/2024-10-14 09.18.15 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 09.18.15 Italy (2024).jpg' | relative_url }})
 
 {:.caption}
-The Sirenusas, an archipelago said to be home to the mythological Greek sirens
+The *Sirenusas*, an archipelago said to be home to the mythological Greek sirens
+
+### Positano
 
 [![]({{ '/assets/img/2024-10-14 10.04.47 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 10.04.47 Italy (2024).jpg' | relative_url }})
 
@@ -42,10 +46,12 @@ The verticality of Positano is something to behold (Better hope you don't mind w
 
 <br>
 
+### Amalfi
+
 [![]({{ '/assets/img/2024-10-14 13.16.57 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 13.16.57 Italy (2024).jpg' | relative_url }})
 
 {:.caption}
-Amalfi Cathedral
+*Amalfi Cathedral*
 
 [![]({{ '/assets/img/2024-10-14 13.47.09 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 13.47.09 Italy (2024).jpg' | relative_url }})
 
@@ -75,6 +81,8 @@ Shots from a boat ride along the Amalfi Coast
 [![]({{ '/assets/img/2024-10-14 14.05.39 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 14.05.39 Italy (2024).jpg' | relative_url }})
 
 <br>
+
+### Ravello
 
 [![]({{ '/assets/img/2024-10-14 14.54.04 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-14 14.54.04 Italy (2024).jpg' | relative_url }})
 
