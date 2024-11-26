@@ -50,6 +50,8 @@ Winding road down to the coast just outside of Capri
 {:.caption}
 Another beautiful cliffside
 
+### Dinner
+
 [![]({{ '/assets/img/2024-10-15 20.37.57 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-15 20.37.57 Italy (2024).jpg' | relative_url }})
 
 {:.caption}
