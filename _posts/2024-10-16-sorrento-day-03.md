@@ -275,7 +275,7 @@ The carbonized remains of a Roman bedframe
 [![]({{ '/assets/img/2024-10-16 15.04.05 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-16 15.04.05 Italy (2024).jpg' | relative_url }})
 
 {:.caption}
-Oars and an anchor found near the the boat which was discovered near the boat houses
+Near the boat houses, archaeologists uncovered a boat which never made it out to sea, along with its oars and anchor
 
 [![]({{ '/assets/img/2024-10-16 15.04.07 Italy (2024).jpg' | relative_url }})]({{ '/assets/img/2024-10-16 15.04.07 Italy (2024).jpg' | relative_url }})
 
